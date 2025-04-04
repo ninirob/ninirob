@@ -16,7 +16,7 @@
 [Newton’s Third Law Free Body Diagram Foot Tapping To Music with Animation](https://github.com/ninirob/NewtonsThirdLawFBD)🎶👣: 
 - Animated Newton’s third law of foot tapping to music, demonstrating symmetry in forces from the ground to the foot, and converted it into a GIF (PHY 150).
 
-[Text-Based Alien Game](https://github.com/ninirob/TextBasedGame)👽🎮:
+[Text-Based Alien Game](https://github.com/ninirob/TextBasedGame.py)👽🎮:
 - Python text-based game where the goal is to escape a spacecraft without encountering aliens, featuring ASCII art and item collection (IT 140).
 
 [Student Grade Management System](https://github.com/ninirob/StudentGradeManagementSystem)💻📚:
