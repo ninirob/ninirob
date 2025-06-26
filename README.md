@@ -7,6 +7,11 @@
 -	⚡ Fun fact: Life is always good when you're learning! 
   
 # 🧑‍💻 Projects
+
+[Chada Digital Clock](https://github.com/ninirob/CS210ChadaClocks)_: 
+- This project simulates a digital clock application that displays the current time in both 12-hour and 24-hour formats simultaneously. Users can interact with the clock through a menu to increment hours, minutes, or seconds. 
+The program updates both time formats accordingly and handles proper rollover for each unit of time
+
 [Fleet Maintenance Visualization](https://github.com/ninirob/Fleet-Maintenance-DAD220)📊:
 - Analyzed data from a school provided Codio workspace for my DAD 220 course in SQL and created graphs using Matplotlib in Python to present to stakeholders.
   
