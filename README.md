@@ -8,7 +8,7 @@
   
 # 🧑‍💻 Projects
 
-[Chada Digital Clock](https://github.com/ninirob/CS210ChadaClocks)_: 
+[Chada Digital Clock](https://github.com/ninirob/CS210ChadaClocks): 
 - This project simulates a digital clock application that displays the current time in both 12-hour and 24-hour formats simultaneously. Users can interact with the clock through a menu to increment hours, minutes, or seconds. 
 The program updates both time formats accordingly and handles proper rollover for each unit of time
 
